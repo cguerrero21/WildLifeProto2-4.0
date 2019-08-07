@@ -11,13 +11,14 @@
 		A836E75C22F6276700773C09 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = A836E75B22F6276700773C09 /* Utilities.swift */; };
 		A836E75E22F64E3400773C09 /* PostHeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A836E75D22F64E3400773C09 /* PostHeaderCell.swift */; };
 		A836E76022F64E8500773C09 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A836E75F22F64E8500773C09 /* PostCell.swift */; };
+		A841773C22F87220007246AC /* HomeUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A841773B22F87220007246AC /* HomeUIViewController.swift */; };
+		A841774322F8A690007246AC /* CameraUiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A841774222F8A690007246AC /* CameraUiViewController.swift */; };
+		A841776522F8BCD6007246AC /* CameraControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = A841776422F8BCD6007246AC /* CameraControll.swift */; };
 		A87487C522F6544F009BE2BA /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87487C422F6544F009BE2BA /* User.swift */; };
 		A87487CB22F67E75009BE2BA /* NewsFeedTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87487CA22F67E75009BE2BA /* NewsFeedTableViewController.swift */; };
 		A87487CF22F6833A009BE2BA /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87487CE22F68339009BE2BA /* Post.swift */; };
 		A877AD0E22F32E00000B1D4A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A877AD0D22F32E00000B1D4A /* GoogleService-Info.plist */; };
 		A8C1CBE322F37827000DA923 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C1CBE222F37827000DA923 /* Constants.swift */; };
-		D84902A122EA24FC00575AE3 /* HomeUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84902A022EA24FC00575AE3 /* HomeUIViewController.swift */; };
-		D84902A322EA253200575AE3 /* CameraUiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84902A222EA253200575AE3 /* CameraUiViewController.swift */; };
 		D84902A522EA254200575AE3 /* DiscoverUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84902A422EA254200575AE3 /* DiscoverUIViewController.swift */; };
 		D84902A722EA255900575AE3 /* AccountUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84902A622EA255900575AE3 /* AccountUIViewController.swift */; };
 		D86F5D6B22E8D41B00A799BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86F5D6A22E8D41B00A799BA /* AppDelegate.swift */; };
@@ -39,14 +40,15 @@
 		A836E75B22F6276700773C09 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		A836E75D22F64E3400773C09 /* PostHeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostHeaderCell.swift; sourceTree = "<group>"; };
 		A836E75F22F64E8500773C09 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		A841773B22F87220007246AC /* HomeUIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeUIViewController.swift; sourceTree = "<group>"; };
+		A841774222F8A690007246AC /* CameraUiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CameraUiViewController.swift; path = ../CameraUiViewController.swift; sourceTree = "<group>"; };
+		A841776422F8BCD6007246AC /* CameraControll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraControll.swift; sourceTree = "<group>"; };
 		A87487C422F6544F009BE2BA /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		A87487CA22F67E75009BE2BA /* NewsFeedTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NewsFeedTableViewController.swift; path = ../../NewsFeedTableViewController.swift; sourceTree = "<group>"; };
 		A87487CE22F68339009BE2BA /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Post.swift; path = "../../../qawQVm42TP2MLaEIYDRJ_DucTran-InstagramUI-SYA/InstagramUI-Complete/InstagramUI/Post.swift"; sourceTree = "<group>"; };
 		A877AD0D22F32E00000B1D4A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A8C1CBE222F37827000DA923 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		D50B5D8A8725BAA642C390A6 /* Pods-WildLifeProto2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WildLifeProto2.debug.xcconfig"; path = "Target Support Files/Pods-WildLifeProto2/Pods-WildLifeProto2.debug.xcconfig"; sourceTree = "<group>"; };
-		D84902A022EA24FC00575AE3 /* HomeUIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeUIViewController.swift; sourceTree = "<group>"; };
-		D84902A222EA253200575AE3 /* CameraUiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraUiViewController.swift; sourceTree = "<group>"; };
 		D84902A422EA254200575AE3 /* DiscoverUIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverUIViewController.swift; sourceTree = "<group>"; };
 		D84902A622EA255900575AE3 /* AccountUIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountUIViewController.swift; sourceTree = "<group>"; };
 		D86F5D6722E8D41B00A799BA /* WildLifeProto2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WildLifeProto2.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -104,6 +106,15 @@
 			path = ViewControllers;
 			sourceTree = "<group>";
 		};
+		A841773F22F88B44007246AC /* Camera Cpontrollers */ = {
+			isa = PBXGroup;
+			children = (
+				A841774222F8A690007246AC /* CameraUiViewController.swift */,
+				A841776422F8BCD6007246AC /* CameraControll.swift */,
+			);
+			path = "Camera Cpontrollers";
+			sourceTree = "<group>";
+		};
 		A884B47D22F3317D00931590 /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
@@ -117,8 +128,8 @@
 		A89CB09422F65353007064BD /* tab subsets */ = {
 			isa = PBXGroup;
 			children = (
-				D84902A222EA253200575AE3 /* CameraUiViewController.swift */,
-				D84902A022EA24FC00575AE3 /* HomeUIViewController.swift */,
+				A841773F22F88B44007246AC /* Camera Cpontrollers */,
+				A841773B22F87220007246AC /* HomeUIViewController.swift */,
 				D86F5D8422E8DB7B00A799BA /* SignUpViewController.swift */,
 				D86F5D8222E8D65A00A799BA /* SignInViewController.swift */,
 				D84902A422EA254200575AE3 /* DiscoverUIViewController.swift */,
@@ -319,15 +330,16 @@
 				D86F5D8322E8D65A00A799BA /* SignInViewController.swift in Sources */,
 				D84902A722EA255900575AE3 /* AccountUIViewController.swift in Sources */,
 				A836E75E22F64E3400773C09 /* PostHeaderCell.swift in Sources */,
-				D84902A122EA24FC00575AE3 /* HomeUIViewController.swift in Sources */,
 				A87487C522F6544F009BE2BA /* User.swift in Sources */,
+				A841776522F8BCD6007246AC /* CameraControll.swift in Sources */,
 				D84902A522EA254200575AE3 /* DiscoverUIViewController.swift in Sources */,
 				D86F5D8722E8DFAD00A799BA /* WildLifeProto.swift in Sources */,
 				D86F5D6B22E8D41B00A799BA /* AppDelegate.swift in Sources */,
+				A841774322F8A690007246AC /* CameraUiViewController.swift in Sources */,
 				A87487CF22F6833A009BE2BA /* Post.swift in Sources */,
-				D84902A322EA253200575AE3 /* CameraUiViewController.swift in Sources */,
 				A836E75C22F6276700773C09 /* Utilities.swift in Sources */,
 				A8C1CBE322F37827000DA923 /* Constants.swift in Sources */,
+				A841773C22F87220007246AC /* HomeUIViewController.swift in Sources */,
 				A87487CB22F67E75009BE2BA /* NewsFeedTableViewController.swift in Sources */,
 				A836E76022F64E8500773C09 /* PostCell.swift in Sources */,
 			);
@@ -467,6 +479,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PSHFZGKYCX;
 				INFOPLIST_FILE = WildLifeProto2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -485,6 +498,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PSHFZGKYCX;
 				INFOPLIST_FILE = WildLifeProto2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
